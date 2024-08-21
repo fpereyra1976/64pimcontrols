@@ -2142,7 +2142,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
-			(uuid "469c8bf6-24a0-48b6-a0dc-c5d59d4c8426")
+			(uuid "0c881808-c9b4-4d6c-9280-b22889f605f3")
 			(effects
 				(font
 					(size 1 1)
@@ -2153,7 +2153,7 @@
 		(property "Value" "MountingHole_2.1mm"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "18fdf039-f9d9-4c02-987e-385448534f71")
+			(uuid "63cf1e0b-a76d-4a95-9b09-c7306452bde4")
 			(effects
 				(font
 					(size 1 1)
@@ -2210,7 +2210,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "6e368e17-dbda-4357-af5f-abb2c1c489ad")
+			(uuid "18150b53-ccaf-433f-bd92-cec37d4b5508")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2221,12 +2221,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "b531bcf7-5234-4c5b-ad7a-f712bc9b2a60")
+			(uuid "748e0a89-b431-43f1-8cd0-f640a1838252")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "bd69a816-bc67-4202-88ca-67dfe6bab041")
+			(uuid "d234c786-950e-44ad-b923-999bdcc93eef")
 			(effects
 				(font
 					(size 1 1)
@@ -2239,7 +2239,7 @@
 			(size 2.1 2.1)
 			(drill 2.1)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "9ccf5616-cac3-4cb6-8ba8-beb5e5f0e08f")
+			(uuid "d8a86650-a51a-4438-8e45-f03de187ff44")
 		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
@@ -2804,7 +2804,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
-			(uuid "469c8bf6-24a0-48b6-a0dc-c5d59d4c8426")
+			(uuid "564fd063-bd4d-485a-8fec-c5244a55bc51")
 			(effects
 				(font
 					(size 1 1)
@@ -2815,7 +2815,7 @@
 		(property "Value" "MountingHole_2.1mm"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "18fdf039-f9d9-4c02-987e-385448534f71")
+			(uuid "30b7c054-c762-4a71-8e77-f186f4a728ef")
 			(effects
 				(font
 					(size 1 1)
@@ -2872,7 +2872,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "6e368e17-dbda-4357-af5f-abb2c1c489ad")
+			(uuid "f6a8e4f2-2b25-4d3d-bf32-9dcd88a83290")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2883,12 +2883,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "b531bcf7-5234-4c5b-ad7a-f712bc9b2a60")
+			(uuid "9a593e0b-62ca-4d8d-a78c-b4b4d15b05b7")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "bd69a816-bc67-4202-88ca-67dfe6bab041")
+			(uuid "7290ec99-5ea7-4f92-bd1a-d93b0779c467")
 			(effects
 				(font
 					(size 1 1)
@@ -2901,7 +2901,7 @@
 			(size 2.1 2.1)
 			(drill 2.1)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "9ccf5616-cac3-4cb6-8ba8-beb5e5f0e08f")
+			(uuid "ce474300-2863-4ecb-b142-3a57ce04680d")
 		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
@@ -4356,7 +4356,7 @@
 		)
 		(fp_arc
 			(start 10.579676 25.189937)
-			(mid 10.357946 25.493957)
+			(mid 10.357958 25.493991)
 			(end 10 25.61)
 			(stroke
 				(width 0.12)
@@ -7586,7 +7586,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
-			(uuid "469c8bf6-24a0-48b6-a0dc-c5d59d4c8426")
+			(uuid "12080c7d-8982-44d7-8eda-a49bdc20d09d")
 			(effects
 				(font
 					(size 1 1)
@@ -7597,7 +7597,7 @@
 		(property "Value" "MountingHole_2.1mm"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "18fdf039-f9d9-4c02-987e-385448534f71")
+			(uuid "e5c4b121-7c79-4ec7-9367-af219a34a927")
 			(effects
 				(font
 					(size 1 1)
@@ -7654,7 +7654,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "6e368e17-dbda-4357-af5f-abb2c1c489ad")
+			(uuid "ba9c411b-9622-4344-be25-7c83650dc5e6")
 		)
 		(fp_circle
 			(center 0 0)
@@ -7665,12 +7665,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "b531bcf7-5234-4c5b-ad7a-f712bc9b2a60")
+			(uuid "ec4d8271-0f8b-4d4b-8de5-804035ba59b6")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "bd69a816-bc67-4202-88ca-67dfe6bab041")
+			(uuid "c18b214a-126a-4107-9cf6-e9d617f8a243")
 			(effects
 				(font
 					(size 1 1)
@@ -7683,7 +7683,7 @@
 			(size 2.1 2.1)
 			(drill 2.1)
 			(layers "*.Cu" "*.Mask")
-			(uuid "9ccf5616-cac3-4cb6-8ba8-beb5e5f0e08f")
+			(uuid "5dc857e2-760d-483f-b4df-4a6b3ce97e19")
 		)
 	)
 	(gr_rect
