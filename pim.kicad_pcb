@@ -5188,8 +5188,9 @@
 	(gr_rect
 		(start 19.888 13.97)
 		(end 119.888 83.97)
+		(locked yes)
 		(stroke
-			(width 0.3)
+			(width 0.5)
 			(type default)
 		)
 		(fill none)
