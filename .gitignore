@@ -30,3 +30,6 @@ fp-info-cache
 
 #Apple file
 **/.DS_Store
+
+#kicad
+**/~*.lck
